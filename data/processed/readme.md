@@ -1,0 +1,1 @@
+Inside processed folder you'll find both .json files with the solutions!
